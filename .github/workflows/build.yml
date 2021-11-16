@@ -18,5 +18,5 @@ jobs:
         with:
           node-version: '16'
       - run: npm install
-      - run: npm yaml:lint
-      - run: npm yaml:validate
+      - run: npm run yaml:lint
+      - run: npm run yaml:validate
