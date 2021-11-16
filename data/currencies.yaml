@@ -1,0 +1,625 @@
+---
+currency:
+  AED:
+    title: United Arab Emirates dirham
+    name: dirham
+
+  AFN:
+    title: Afghan afghani
+    name: afghani
+
+  ALL:
+    title: Albanian lek
+    name: lek
+
+  AMD:
+    title: Armenian dram
+    name: dram
+
+  ANG:
+    title: Netherlands Antillean guilder
+    name: guilder
+
+  AOA:
+    title: Angolan kwanza
+    name: kwanza
+
+  ARS:
+    title: Argentine peso
+    name: peso
+
+  AUD:
+    title: Australian dollar
+    name: dollar
+
+  AWG:
+    title: Aruban florin
+    name: florin
+
+  AZN:
+    title: Azerbaijani manat
+    name: manat
+
+  BAM:
+    title: Bosnia and Herzegovina convertible mark
+    name: convertible mark
+
+  BBD:
+    title: Barbadian dollar
+    name: dollar
+
+  BDT:
+    title: Bangladeshi taka
+    name: taka
+
+  BGN:
+    title: Bulgarian lev
+    name: lev
+
+  BHD:
+    title: Bahraini dinar
+    name: dinar
+
+  BIF:
+    title: Burundian franc
+    name: franc
+
+  BMD:
+    title: Bermudian dollar
+    name: dollar
+
+  BND:
+    title: Brunei dollar
+    name: dollar
+
+  BOB:
+    title: Bolivian boliviano
+    name: boliviano
+
+  BRL:
+    title: Brazilian real
+    name: real
+
+  BSD:
+    title: Bahamian dollar
+    name: dollar
+
+  BTN:
+    title: Bhutanese ngultrum
+    name: ngultrum
+
+  BWP:
+    title: Botswana pula
+    name: pula
+
+  BYR:
+    title: Belarusian ruble
+    name: ruble
+
+  BZD:
+    title: Belize dollar
+    name: dollar
+
+  CAD:
+    title: Canadian dollar
+    name: dollar
+
+  CDF:
+    title: Congolese franc
+    name: franc
+
+  CHF:
+    title: Swiss franc
+    name: franc
+
+  CLF:
+    title: Unidad de Fomento
+    name: Unidad de Fomento
+
+  CLP:
+    title: Chilean peso
+    name: peso
+
+  CNY:
+    title: Renminbi
+    name: renminbi
+
+  COP:
+    title: Colombian peso
+    name: peso
+
+  CRC:
+    title: Costa Rican colón
+    name: colón
+
+  CUP:
+    title: Cuban peso
+    name: peso
+
+  CVE:
+    title: Cape Verdean escudo
+    name: escudo
+
+  CZK:
+    title: Czech koruna
+    name: koruna
+
+  DJF:
+    title: Djiboutian franc
+    name: franc
+
+  DKK:
+    title: Danish krone
+    name: krone
+
+  DOP:
+    title: Dominican peso
+    name: peso
+
+  DZD:
+    title: Algerian dinar
+    name: dinar
+
+  EGP:
+    title: Egyptian pound
+    name: pound
+
+  ETB:
+    title: Ethiopian birr
+    name: birr
+
+  EUR:
+    title: Euro
+    name: euro
+
+  FJD:
+    title: Fijian dollar
+    name: dollar
+
+  FKP:
+    title: Falkland Islands pound
+    name: pound
+
+  GBP:
+    title: Pound sterling
+    name: pound
+
+  GEL:
+    title: Georgian Lari
+    name: lari
+
+  GHS:
+    title: Ghanaian cedi
+    name: cedi
+
+  GIP:
+    title: Gibraltar pound
+    name: pound
+
+  GMD:
+    title: Gambian dalasi
+    name: dalasi
+
+  GNF:
+    title: Guinean franc
+    name: franc
+
+  GTQ:
+    title: Guatemalan quetzal
+    name: quetzal
+
+  GYD:
+    title: Guyanese dollar
+    name: dollar
+
+  HKD:
+    title: Hong Kong dollar
+    name: dollar
+
+  HNL:
+    title: Honduran lempira
+    name: lempira
+
+  HRK:
+    title: Croatian kuna
+    name: kuna
+
+  HTG:
+    title: Haitian gourde
+    name: gourde
+
+  HUF:
+    title: Hungarian forint
+    name: forint
+
+  IDR:
+    title: Indonesian rupiah
+    name: rupiah
+
+  ILS:
+    title: Israeli new shekel
+    name: shekel
+
+  INR:
+    title: Indian rupee
+    name: rupee
+
+  IQD:
+    title: Iraqi dinar
+    name: dinar
+
+  IRR:
+    title: Iranian rial
+    name: rial
+
+  ISK:
+    title: Icelandic krona
+    name: krona
+
+  JEP:
+    title: Jersey pound
+    name: pound
+
+  JMD:
+    title: Jamaican dollar
+    name: dollar
+
+  JOD:
+    title: Jordanian dinar
+    name: dinar
+
+  JPY:
+    title: Japanese yen
+    name: yen
+
+  KES:
+    title: Kenyan shilling
+    name: shilling
+
+  KGS:
+    title: Kyrgyzstani som
+    name: som
+
+  KHR:
+    title: Cambodian riel
+    name: riel
+
+  KMF:
+    title: Comorian franc
+    name: franc
+
+  KPW:
+    title: North Korean won
+    name: won
+
+  KRW:
+    title: South Korean won
+    name: won
+
+  KWD:
+    title: Kuwaiti dinar
+    name: dinar
+
+  KYD:
+    title: Cayman Islands dollar
+    name: dollar
+
+  KZT:
+    title: Kazakhstani tenge
+    name: tenge
+
+  LAK:
+    title: Lao kip
+    name: kip
+
+  LBP:
+    title: Lebanese pound
+    name: pound
+
+  LKR:
+    title: Sri Lankan rupee
+    name: rupee
+
+  LRD:
+    title: Liberian dollar
+    name: dollar
+
+  LSL:
+    title: Lesotho loti
+    name: loti
+
+  LYD:
+    title: Libyan dinar
+    name: dinar
+
+  MAD:
+    title: Moroccan dirham
+    name: dirham
+
+  MDL:
+    title: Moldovan leu
+    name: leu
+
+  MGA:
+    title: Malagasy ariary
+    name: ariary
+
+  MKD:
+    title: Macedonian denar
+    name: denar
+
+  MMK:
+    title: Myanmar kyat
+    name: kyat
+
+  MNT:
+    title: Mongolian tögrög
+    name: tögrög
+
+  MOP:
+    title: Macanese pataca
+    name: pataca
+
+  MRO:
+    title: Mauritanian ouguiya
+    name: ouguiya
+
+  MUR:
+    title: Mauritian rupee
+    name: rupee
+
+  MVR:
+    title: Maldivian rufiyaa
+    name: rufiyaa
+
+  MWK:
+    title: Malawian kwacha
+    name: kwacha
+
+  MXN:
+    title: Mexican peso
+    name: peso
+
+  MYR:
+    title: Malaysian ringgit
+    name: ringgit
+
+  MZN:
+    title: Mozambican metical
+    name: metical
+
+  NAD:
+    title: Namibian dollar
+    name: dollar
+
+  NGN:
+    title: Nigerian naira
+    name: naira
+
+  NIO:
+    title: Nicaraguan córdoba
+    name: córdoba
+
+  NOK:
+    title: Norwegian krone
+    name: krone
+
+  NPR:
+    title: Nepalese rupee
+    name: rupee
+
+  NZD:
+    title: New Zealand dollar
+    name: dollar
+
+  OMR:
+    title: Omani rial
+    name: rial
+
+  PAB:
+    title: Panamanian balboa
+    name: balboa
+
+  PEN:
+    title: Peruvian sol
+    name: sol
+
+  PGK:
+    title: Papua New Guinean kina
+    name: kina
+
+  PHP:
+    title: Philippine peso
+    name: peso
+
+  PKR:
+    title: Pakistani rupee
+    name: rupee
+
+  PLN:
+    title: Polish złoty
+    name: zloty
+
+  PYG:
+    title: Paraguayan guaraní
+    name: guaraní
+
+  QAR:
+    title: Qatari riyal
+    name: riyal
+
+  RON:
+    title: Romanian leu
+    name: leu
+
+  RSD:
+    title: Serbian dinar
+    name: dinar
+
+  RUB:
+    title: Russian ruble
+    name: ruble
+
+  RWF:
+    title: Rwandan franc
+    name: franc
+
+  SAR:
+    title: Saudi riyal
+    name: riyal
+
+  SBD:
+    title: Solomon Islands dollar
+    name: dollar
+
+  SCR:
+    title: Seychellois rupee
+    name: rupee
+
+  SDG:
+    title: Sudanese pound
+    name: pound
+
+  SEK:
+    title: Swedish krona
+    name: krona
+
+  SGD:
+    title: Singapore dollar
+    name: dollar
+
+  SHP:
+    title: Saint Helena pound
+    name: pound
+
+  SLL:
+    title: Sierra Leonean leone
+    name: leone
+
+  SOS:
+    title: Somali shilling
+    name: shilling
+
+  SRD:
+    title: Surinamese dollar
+    name: dollar
+
+  STN:
+    title: São Tomé and Príncipe dobra
+    name: dobra
+
+  SYP:
+    title: Syrian pound
+    name: pound
+
+  SZL:
+    title: Swazi lilangeni
+    name: lilangeni
+
+  THB:
+    title: Thai baht
+    name: baht
+
+  TJS:
+    title: Tajikistani somoni
+    name: somoni
+
+  TMT:
+    title: Turkmenistani manat
+    name: manat
+
+  TND:
+    title: Tunisian dinar
+    name: dinar
+
+  TOP:
+    title: Tongan paʻanga
+    name: paʻanga
+
+  TRY:
+    title: Turkish lira
+    name: lira
+
+  TTD:
+    title: Trinidad and Tobago dollar
+    name: dollar
+
+  TWD:
+    title: New Taiwan dollar
+    name: dollar
+
+  TZS:
+    title: Tanzanian shilling
+    name: shiling
+
+  UAH:
+    title: Ukrainian hryvnia
+    name: hryvnia
+
+  UGX:
+    title: Ugandan shilling
+    name: shilling
+
+  USD:
+    title: United States dollar
+    name: dollar
+
+  UYU:
+    title: Uruguayan peso
+    name: peso
+
+  UZS:
+    title: Uzbekistani soʻm
+    name: soʻm
+
+  VEF:
+    title: Venezuelan digital Bolívar
+    name: bolívar
+
+  VND:
+    title: Vietnamese đồng
+    name: đồng
+
+  VUV:
+    title: Vanuatu vatu
+    name: vatu
+
+  WST:
+    title: Samoan tālā
+    name: tālā
+
+  XAF:
+    title: Central African CFA franc
+    name: franc
+
+  XCD:
+    title: Eastern Caribbean dollar
+    name: dollar
+
+  XDR:
+    title: Special drawing rights
+    name: SDR
+
+  XOF:
+    title: West African CFA franc
+    name: franc
+
+  XPF:
+    title: CFP franc
+    name: franc
+
+  YER:
+    title: Yemeni rial
+    name: rial
+
+  ZAR:
+    title: South African rand
+    name: rand
+
+  ZMK:
+    title: Zambian kwacha
+    name: kwacha
+
+  ZWL:
+    title: Real Time Gross Settlement dollar
+    name: dollar

@@ -1,0 +1,33 @@
+{
+  "name": "currency-symbols",
+  "version": "1.0.0",
+  "description": "Currency symbol dataset",
+  "author": "Dan Gibbs",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gibbs/currency-data/issues"
+  },
+  "homepage": "https://github.com/gibbs/currency-data",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gibbs/currency-data.git"
+  },
+  "keywords": [
+    "currencies",
+    "data",
+    "dataset"
+  ],
+  "engines": {
+    "npm": ">=8.1.0",
+    "node": ">=16.13.0"
+  },
+  "scripts": {
+    "yaml:lint": "yamllint **/*.yaml --schema=CORE_SCHEMA",
+    "yaml:validate": "node scripts/validate-yaml.js"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0",
+    "yaml-lint": "^1.2.4",
+    "yaml-schema-validator": "^1.2.3"
+  }
+}
