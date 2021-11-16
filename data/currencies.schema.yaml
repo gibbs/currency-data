@@ -5,3 +5,7 @@ title:
 name:
   type: string
   required: true
+code:
+  type: string
+  length: 3
+  required: true
