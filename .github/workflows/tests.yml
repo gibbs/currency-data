@@ -1,0 +1,44 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - 'master'
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install
+      - run: npm run lint:yaml
+      - run: npm run lint:js
+
+  test:
+    name: Test
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install
+      - run: npm run test:schema
+      - run: npm run test:validate
+      - uses: addnab/docker-run-action@v3
+        with:
+          image: genv/php-cli:8.0
+          options: -e composer -v ${{ github.workspace }}:/data/
+          run: install
+      - uses: addnab/docker-run-action@v3
+        with:
+          image: genv/php-cli:8.0
+          options: -v ${{ github.workspace }}:/data/
+          run: vendor/bin/phpunit test/php/ || true
