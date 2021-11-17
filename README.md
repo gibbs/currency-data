@@ -2,7 +2,22 @@
 
 ![Test](https://github.com/gibbs/currency-data/actions/workflows/build.yml/badge.svg)
 
-English language currency dataset for use in various languages and data formats.
+English language currency datasets in CSV, JSON, PHP, XML and YAML formats. See
+the `dist` directory for data.
+
+## Data
+
+All currency data is maintained in an easy to read and parse format (YAML) 
+under `data/currencies.yaml`. The data here is authoritative for this dataset
+and used to generate data in other formats.
+
+## Schema
+
+| Key   | Description |
+|-------|-------------|
+| title | The currency title. More formal (e.g. Pound Sterling, US Dollar) |
+| name  | Shorter currency name used in common parlance (e.g. pound, dollar) |
+| code  | The ISO 4217 currency code (e.g. GBP, USD) |
 
 ## License
 
@@ -10,5 +25,5 @@ English language currency dataset for use in various languages and data formats.
 
 ## Sources
 
-Data has primarily been sourced from 
+Data has primarily been sourced from and referenced against
 [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html).
