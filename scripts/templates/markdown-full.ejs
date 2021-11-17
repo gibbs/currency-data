@@ -1,0 +1,4 @@
+|<% Object.keys(data.currency['GBP']).forEach((header) => { %> <%= header %> |<% }); %>
+|<% Object.keys(data.currency['GBP']).forEach((header) => { %>-|<% }); %>
+<% Object.keys(data.currency).forEach((code) => { %>|<% Object.keys(data.currency[code]).forEach((key) => { %><%= data.currency[code][key] %>|<% }); %>
+<% }); %>

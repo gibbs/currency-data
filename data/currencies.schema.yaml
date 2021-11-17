@@ -9,3 +9,17 @@ code:
   type: string
   length: 3
   required: true
+symbol:
+  type: string
+  required: true
+entity:
+  type: string
+  required: true
+discern:
+  type: string
+  required: false
+  length:
+    min: 0
+ltr:
+  type: boolean
+  required: true

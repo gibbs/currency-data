@@ -55,3 +55,10 @@ Object.keys(currencyData.currency).forEach((code, index) => {
 
 const xml = objectToXml(xmlObj)
 fs.writeFileSync(writePath('currencies.xml'), xml)
+
+// Write Markdown
+ejs.renderFile(path.resolve(__dirname, 'templates/markdown-full.ejs'), { data: currencyData }, (error, content) => {
+  if (!error) {
+    fs.writeFileSync(writePath('currencies.md'), content)
+  }
+})
