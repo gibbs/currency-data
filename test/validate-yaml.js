@@ -12,9 +12,8 @@ let validSchema = true
 
 // Traverse currencies object
 Object.keys(data.currency).forEach((code) => {
-
   // Validate individual currency objects
-  let validation = validate(data.currency[code], {
+  const validation = validate(data.currency[code], {
     schemaPath: schemaPath,
     logLevel: 'warn'
   })

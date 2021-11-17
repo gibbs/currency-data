@@ -1,2 +1,11 @@
+# General
 *~
+
+# Node
 /node_modules/
+
+# PHP
+/cache/
+/vendor/
+/phpunit.xml
+/.phpunit.*

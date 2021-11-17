@@ -746,9 +746,14 @@ currency:
     code: UZS
 
   VED:
-    title: Venezuelan digital Bolívar
+    title: Bolívar Soberano
     name: bolívar
     code: VED
+
+  VES:
+    title: Bolívar Soberano
+    name: bolívar
+    code: VES
 
   VND:
     title: Dong

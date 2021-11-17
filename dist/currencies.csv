@@ -1,0 +1,164 @@
+title,name,code
+United Arab Emirates Dirham,dirham,AED
+Afghan Afghani,afghani,AFN
+Lek,lek,ALL
+Armenian Dram,dram,AMD
+Netherlands Antillean Guilder,guilder,ANG
+Angolan Kwanza,kwanza,AOA
+Argentine Peso,peso,ARS
+Australian Dollar,dollar,AUD
+Aruban Florin,florin,AWG
+Azerbaijani Manat,manat,AZN
+Bosnia and Herzegovina Convertible Mark,convertible mark,BAM
+Barbadian Dollar,dollar,BBD
+Bangladeshi Taka,taka,BDT
+Bulgarian Lev,lev,BGN
+Bahraini Dinar,dinar,BHD
+Burundian Franc,franc,BIF
+Bermudian Dollar,dollar,BMD
+Brunei Dollar,dollar,BND
+Bolivian Boliviano,boliviano,BOB
+Mvdol,mvdol,BOV
+Brazilian Real,real,BRL
+Bahamian Dollar,dollar,BSD
+Ngultrum,ngultrum,BTN
+Pula,pula,BWP
+Belarusian Ruble,ruble,BYN
+Belize Dollar,dollar,BZD
+Canadian Dollar,dollar,CAD
+Congolese Franc,franc,CDF
+Swiss Franc,franc,CHF
+Unidad de Fomento,Unidad de Fomento,CLF
+Chilean Peso,peso,CLP
+Yuan Renminbi,renminbi,CNY
+Colombian Peso,peso,COP
+Costa Rican Colon,colon,CRC
+Peso Convertible,peso,CUC
+Cuban Peso,peso,CUP
+Cabo Verde Escudo,escudo,CVE
+Czech Koruna,koruna,CZK
+Djibouti Franc,franc,DJF
+Danish Krone,krone,DKK
+Dominican Peso,peso,DOP
+Algerian Dinar,dinar,DZD
+Egyptian Pound,pound,EGP
+Ethiopian Birr,birr,ETB
+Nakfa,nakfa,ERN
+Euro,euro,EUR
+Fiji Dollar,dollar,FJD
+Falkland Islands Pound,pound,FKP
+Pound sterling,pound,GBP
+Lari,lari,GEL
+Ghana Cedi,cedi,GHS
+Gibraltar Pound,pound,GIP
+Dalasi,dalasi,GMD
+Guinean Franc,franc,GNF
+Quetzal,quetzal,GTQ
+Guyana Dollar,dollar,GYD
+Hong Kong Dollar,dollar,HKD
+Lempira,lempira,HNL
+Kuna,kuna,HRK
+Gourde,gourde,HTG
+Forint,forint,HUF
+Rupiah,rupiah,IDR
+New Israeli Sheqel,sheqel,ILS
+Indian Rupee,rupee,INR
+Iraqi Dinar,dinar,IQD
+Iranian Rial,rial,IRR
+Iceland Krona,krona,ISK
+Jersey Pound,pound,JEP
+Jamaican Dollar,dollar,JMD
+Jordanian Dinar,dinar,JOD
+Yen,yen,JPY
+Kenyan Shilling,shilling,KES
+Som,som,KGS
+Riel,riel,KHR
+Comorian Franc,franc,KMF
+North Korean Won,won,KPW
+Won,won,KRW
+Kuwaiti Dinar,dinar,KWD
+Cayman Islands Dollar,dollar,KYD
+Tenge,tenge,KZT
+Lao Kip,kip,LAK
+Lebanese Pound,pound,LBP
+Sri Lanka Rupee,rupee,LKR
+Liberian Dollar,dollar,LRD
+Loti,loti,LSL
+Libyan Dinar,dinar,LYD
+Moroccan Dirham,dirham,MAD
+Moldovan Leu,leu,MDL
+Malagasy Ariary,ariary,MGA
+Denar,denar,MKD
+Kyat,kyat,MMK
+Tugrik,tugrik,MNT
+Pataca,pataca,MOP
+Ouguiya,ouguiya,MRU
+Mauritius Rupee,rupee,MUR
+Rufiyaa,rufiyaa,MVR
+Malawi Kwacha,kwacha,MWK
+Mexican Peso,peso,MXN
+Mexican Unidad de Inversion (UDI),udi,MXV
+Malaysian Ringgit,ringgit,MYR
+Mozambique Metical,metical,MZN
+Namibia Dollar,dollar,NAD
+Naira,naira,NGN
+Cordoba Oro,cordoba,NIO
+Norwegian Krone,krone,NOK
+Nepalese Rupee,rupee,NPR
+New Zealand Dollar,dollar,NZD
+Rial Omani,rial,OMR
+Balboa,balboa,PAB
+Sol,sol,PEN
+Kina,kina,PKG
+Philippine Peso,peso,PHP
+Pakistan Rupee,rupee,PKR
+Zloty,zloty,PLN
+Guarani,guarani,PYG
+Qatari Rial,riyal,QAR
+Romanian Leu,leu,RON
+Serbian Dinar,dinar,RSD
+Russian Ruble,ruble,RUB
+Rwanda Franc,franc,RWF
+Saudi Riyal,riyal,SAR
+Solomon Islands Dollar,dollar,SBD
+Seychelles Rupee,rupee,SCR
+Sudanese Pound,pound,SDG
+Swedish Krona,krona,SEK
+Singapore Dollar,dollar,SGD
+Saint Helena Pound,pound,SHP
+Leone,leone,SLL
+Somali Shilling,shilling,SOS
+Surinam Dollar,dollar,SRD
+Dobra,dobra,STN
+South Sudanese Pound,pound,SSP
+El Salvador Colon,colon,SVC
+Syrian Pound,pound,SYP
+Lilangeni,lilangeni,SZL
+Baht,baht,THB
+Somoni,somoni,TJS
+Turkmenistan New Manat,manat,TMT
+Tunisian Dinar,dinar,TND
+Pa’anga,pa’anga,TOP
+Turkish Lira,lira,TRY
+Trinidad and Tobago Dollar,dollar,TTD
+New Taiwan Dollar,dollar,TWD
+Tanzanian Shilling,shiling,TZS
+Hryvnia,hryvnia,UAH
+Uganda Shilling,shilling,UGX
+United States Dollar,dollar,USD
+Peso Uruguayo,peso,UYU
+Uzbekistan Sum,sum,UZS
+Bolívar Soberano,bolívar,VED
+Bolívar Soberano,bolívar,VES
+Dong,dong,VND
+Vatu,vatu,VUV
+Tala,tala,WST
+CFA Franc BEAC,franc,XAF
+East Caribbean Dollar,dollar,XCD
+SDR (Special Drawing Right),SDR,XDR
+CFA Franc BCEAO,franc,XOF
+CFP Franc,franc,XPF
+Yemeni Rial,rial,YER
+Rand,rand,ZAR
+Zambian Kwacha,kwacha,ZMW
+Zimbabwe Dollar,dollar,ZWL

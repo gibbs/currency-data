@@ -11,6 +11,14 @@ indent_style = space
 indent_size = 4
 trim_trailing_whitespace = false
 
+[*.json]
+indent_style = space
+indent_size = 2
+
 [*.y{ml,aml}]
+indent_style = space
+indent_size = 2
+
+[*.xml]
 indent_style = space
 indent_size = 2

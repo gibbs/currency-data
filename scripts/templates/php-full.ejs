@@ -1,0 +1,5 @@
+<?php return [<% Object.keys(data.currency).forEach((code) => { %>
+  '<%= code %>' => [<% Object.keys(data.currency[code]).forEach((key) => { %>
+    '<%= key %>' => '<%= data.currency[code][key] %>',<% }); %>
+  ],<% }); %>
+];
