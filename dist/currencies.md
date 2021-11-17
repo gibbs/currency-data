@@ -1,39 +1,3 @@
-# Currency Data
-
-![Test](https://github.com/gibbs/currency-data/actions/workflows/tests.yml/badge.svg)
-
-English language currency datasets in CSV, JSON, PHP, XML and YAML formats. See
-the `dist` directory for data.
-
-## Data
-
-All currency data is maintained in an easy to read and parse format (YAML) 
-under `data/currencies.yaml`. The data here is authoritative for this dataset
-and used to generate data in other formats.
-
-## Schema
-
-| Key     | Description |
-|---------|-------------|
-| title   | The currency title. More formal (e.g. Pound Sterling, United States Dollar) |
-| name    | Shorter currency name used in common parlance (e.g. pound, dollar) |
-| code    | The ISO 4217 currency code (e.g. GBP, USD) |
-| symbol  | The currency symbol |
-| entity  | The symbols character entity reference for use in HTML, XML etc |
-| discern | Alternative symbol used to discern the currency type (e.g. CA$ instead of $ for Canadian Dollars) |
-| ltr     | Boolean to determine if the currency symbol is in left-to-right script |
-
-## License
-
-[CC0 v1.0 Universal](https://github.com/gibbs/currency-data/blob/master/LICENSE)
-
-## Sources
-
-Data has primarily been sourced from and referenced against
-[ISO 4217](https://www.iso.org/iso-4217-currency-codes.html).
-
-## Current Dataset
-
 | title | name | code | symbol | entity | discern | ltr |
 |-|-|-|-|-|-|-|
 |United Arab Emirates Dirham|dirham|AED|د.إ|&amp;#1583;.&amp;#1573;||false|
@@ -198,3 +162,4 @@ Data has primarily been sourced from and referenced against
 |Rand|rand|ZAR|R|&amp;#x52;||true|
 |Zambian Kwacha|kwacha|ZMW|K|&amp;#x4B;|ZK|true|
 |Zimdollar|dollar|ZWL|$|&amp;#x24;|ZWL$|true|
+

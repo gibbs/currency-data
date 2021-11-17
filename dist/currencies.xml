@@ -4,815 +4,1458 @@
     <title>United Arab Emirates Dirham</title>
     <name>dirham</name>
     <code>AED</code>
+    <symbol>د.إ</symbol>
+    <entity>&amp;#1583;.&amp;#1573;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="AFN">
     <title>Afghan Afghani</title>
     <name>afghani</name>
     <code>AFN</code>
+    <symbol>؋</symbol>
+    <entity>&amp;#x60B;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="ALL">
     <title>Lek</title>
     <name>lek</name>
     <code>ALL</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="AMD">
     <title>Armenian Dram</title>
     <name>dram</name>
     <code>AMD</code>
+    <symbol>֏</symbol>
+    <entity>&amp;#x58F;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="ANG">
     <title>Netherlands Antillean Guilder</title>
     <name>guilder</name>
     <code>ANG</code>
+    <symbol>ƒ</symbol>
+    <entity>&amp;#x192;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="AOA">
     <title>Angolan Kwanza</title>
     <name>kwanza</name>
     <code>AOA</code>
+    <symbol>Kz</symbol>
+    <entity>&amp;#x4B;&amp;#x7A;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="ARS">
     <title>Argentine Peso</title>
     <name>peso</name>
     <code>ARS</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="AUD">
     <title>Australian Dollar</title>
     <name>dollar</name>
     <code>AUD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>AU$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="AWG">
     <title>Aruban Florin</title>
     <name>florin</name>
     <code>AWG</code>
+    <symbol>ƒ</symbol>
+    <entity>&amp;#x192;</entity>
+    <discern>Afl.</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="AZN">
     <title>Azerbaijani Manat</title>
     <name>manat</name>
     <code>AZN</code>
+    <symbol>₼</symbol>
+    <entity>&amp;#x20BC;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BAM">
     <title>Bosnia and Herzegovina Convertible Mark</title>
     <name>convertible mark</name>
     <code>BAM</code>
+    <symbol>КМ</symbol>
+    <entity>&amp;#x41A;&amp;#x41C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BBD">
     <title>Barbadian Dollar</title>
     <name>dollar</name>
     <code>BBD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>Bds$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BDT">
     <title>Bangladeshi Taka</title>
     <name>taka</name>
     <code>BDT</code>
+    <symbol>৳</symbol>
+    <entity>&amp;#x9F3;</entity>
+    <discern>Tk.</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BGN">
     <title>Bulgarian Lev</title>
     <name>lev</name>
     <code>BGN</code>
+    <symbol>лв.</symbol>
+    <entity>&amp;#x43B;&amp;#x432;&amp;#x2E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BHD">
     <title>Bahraini Dinar</title>
     <name>dinar</name>
     <code>BHD</code>
+    <symbol>.د.ب</symbol>
+    <entity>&amp;#x2E;&amp;#x62F;&amp;#x2E;&amp;#x628;</entity>
+    <discern>BD</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BIF">
     <title>Burundian Franc</title>
     <name>franc</name>
     <code>BIF</code>
+    <symbol>FBu</symbol>
+    <entity>&amp;#x46;&amp;#x42;&amp;#x75;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BMD">
     <title>Bermudian Dollar</title>
     <name>dollar</name>
     <code>BMD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>BD$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BND">
     <title>Brunei Dollar</title>
     <name>dollar</name>
     <code>BND</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>B$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BOB">
     <title>Bolivian Boliviano</title>
     <name>boliviano</name>
     <code>BOB</code>
+    <symbol>Bs</symbol>
+    <entity>&amp;#x42;&amp;#x73;</entity>
+    <discern>B$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BOV">
     <title>Mvdol</title>
     <name>mvdol</name>
     <code>BOV</code>
+    <symbol>-</symbol>
+    <entity>&amp;#x2D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BRL">
     <title>Brazilian Real</title>
     <name>real</name>
     <code>BRL</code>
+    <symbol>R$</symbol>
+    <entity>&amp;#x52;&amp;#x24;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BSD">
     <title>Bahamian Dollar</title>
     <name>dollar</name>
     <code>BSD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>B$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="BTN">
     <title>Ngultrum</title>
     <name>ngultrum</name>
     <code>BTN</code>
+    <symbol>Nu.</symbol>
+    <entity>&amp;#x4E;&amp;#x75;&amp;#x2E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BWP">
     <title>Pula</title>
     <name>pula</name>
     <code>BWP</code>
+    <symbol>P</symbol>
+    <entity>&amp;#x50;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BYN">
     <title>Belarusian Ruble</title>
     <name>ruble</name>
     <code>BYN</code>
+    <symbol>Br</symbol>
+    <entity>&amp;#x42;&amp;#x72;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="BZD">
     <title>Belize Dollar</title>
     <name>dollar</name>
     <code>BZD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>BZ$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CAD">
     <title>Canadian Dollar</title>
     <name>dollar</name>
     <code>CAD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>CA$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CDF">
     <title>Congolese Franc</title>
     <name>franc</name>
     <code>CDF</code>
+    <symbol>FC</symbol>
+    <entity>&amp;#x46;&amp;#x43;</entity>
+    <discern>CF</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CHF">
     <title>Swiss Franc</title>
     <name>franc</name>
     <code>CHF</code>
+    <symbol>Fr</symbol>
+    <entity>&amp;#x46;&amp;#x72;</entity>
+    <discern>SFr</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CLF">
     <title>Unidad de Fomento</title>
     <name>Unidad de Fomento</name>
     <code>CLF</code>
+    <symbol>UF</symbol>
+    <entity>&amp;#x55;&amp;#x46;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="CLP">
     <title>Chilean Peso</title>
     <name>peso</name>
     <code>CLP</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>CLP$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CNY">
     <title>Yuan Renminbi</title>
-    <name>renminbi</name>
+    <name>yuan</name>
     <code>CNY</code>
+    <symbol>¥</symbol>
+    <entity>&amp;#xA5;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="COP">
     <title>Colombian Peso</title>
     <name>peso</name>
     <code>COP</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>COP$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CRC">
     <title>Costa Rican Colon</title>
     <name>colon</name>
     <code>CRC</code>
+    <symbol>₡</symbol>
+    <entity>&amp;#x20A1;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="CUC">
     <title>Peso Convertible</title>
     <name>peso</name>
     <code>CUC</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>CUC$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CUP">
     <title>Cuban Peso</title>
     <name>peso</name>
     <code>CUP</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>$MN</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="CVE">
     <title>Cabo Verde Escudo</title>
     <name>escudo</name>
     <code>CVE</code>
+    <symbol>Esc</symbol>
+    <entity>&amp;#x45;&amp;#x73;&amp;#x63;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="CZK">
     <title>Czech Koruna</title>
     <name>koruna</name>
     <code>CZK</code>
+    <symbol>Kč</symbol>
+    <entity>&amp;#x4B;&amp;#x10D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="DJF">
     <title>Djibouti Franc</title>
     <name>franc</name>
     <code>DJF</code>
+    <symbol>Fdj</symbol>
+    <entity>&amp;#x46;&amp;#x64;&amp;#x6A;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="DKK">
     <title>Danish Krone</title>
     <name>krone</name>
     <code>DKK</code>
+    <symbol>kr</symbol>
+    <entity>&amp;#x6B;&amp;#x72;</entity>
+    <discern>DKK</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="DOP">
     <title>Dominican Peso</title>
     <name>peso</name>
     <code>DOP</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>RD$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="DZD">
     <title>Algerian Dinar</title>
     <name>dinar</name>
     <code>DZD</code>
+    <symbol>دج</symbol>
+    <entity>&amp;#x62F;&amp;#x62C;</entity>
+    <discern>DA</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="EGP">
     <title>Egyptian Pound</title>
     <name>pound</name>
     <code>EGP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>£E</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="ETB">
     <title>Ethiopian Birr</title>
     <name>birr</name>
     <code>ETB</code>
+    <symbol>ብር</symbol>
+    <entity>&amp;#x1265;&amp;#x122D;</entity>
+    <discern>Br</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="ERN">
     <title>Nakfa</title>
     <name>nakfa</name>
     <code>ERN</code>
+    <symbol>Nkf</symbol>
+    <entity>&amp;#x4E;&amp;#x6B;&amp;#x66;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="EUR">
     <title>Euro</title>
     <name>euro</name>
     <code>EUR</code>
+    <symbol>€</symbol>
+    <entity>&amp;#x20AC;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="FJD">
     <title>Fiji Dollar</title>
     <name>dollar</name>
     <code>FJD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>FJ$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="FKP">
     <title>Falkland Islands Pound</title>
     <name>pound</name>
     <code>FKP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>FK£</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="GBP">
     <title>Pound sterling</title>
     <name>pound</name>
     <code>GBP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="GEL">
     <title>Lari</title>
     <name>lari</name>
     <code>GEL</code>
+    <symbol>₾</symbol>
+    <entity>&amp;#x20BE;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="GHS">
     <title>Ghana Cedi</title>
     <name>cedi</name>
     <code>GHS</code>
+    <symbol>₵</symbol>
+    <entity>&amp;#x20B5;</entity>
+    <discern>GH¢</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="GIP">
     <title>Gibraltar Pound</title>
     <name>pound</name>
     <code>GIP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="GMD">
     <title>Dalasi</title>
     <name>dalasi</name>
     <code>GMD</code>
+    <symbol>D</symbol>
+    <entity>&amp;#x44;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="GNF">
     <title>Guinean Franc</title>
     <name>franc</name>
     <code>GNF</code>
+    <symbol>FG</symbol>
+    <entity>&amp;#x46;&amp;#x47;</entity>
+    <discern>GFr</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="GTQ">
     <title>Quetzal</title>
     <name>quetzal</name>
     <code>GTQ</code>
+    <symbol>Q</symbol>
+    <entity>&amp;#x51;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="GYD">
     <title>Guyana Dollar</title>
     <name>dollar</name>
     <code>GYD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>GY$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="HKD">
     <title>Hong Kong Dollar</title>
     <name>dollar</name>
     <code>HKD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>HK$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="HNL">
     <title>Lempira</title>
     <name>lempira</name>
     <code>HNL</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="HRK">
     <title>Kuna</title>
     <name>kuna</name>
     <code>HRK</code>
+    <symbol>kn</symbol>
+    <entity>&amp;#x6B;&amp;#x6E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="HTG">
     <title>Gourde</title>
     <name>gourde</name>
     <code>HTG</code>
+    <symbol>G</symbol>
+    <entity>&amp;#x47;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="HUF">
     <title>Forint</title>
     <name>forint</name>
     <code>HUF</code>
+    <symbol>Ft</symbol>
+    <entity>&amp;#x46;&amp;#x74;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="IDR">
     <title>Rupiah</title>
     <name>rupiah</name>
     <code>IDR</code>
+    <symbol>Rp</symbol>
+    <entity>&amp;#x52;&amp;#x70;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="ILS">
     <title>New Israeli Sheqel</title>
     <name>sheqel</name>
     <code>ILS</code>
+    <symbol>₪</symbol>
+    <entity>&amp;#x20AA;</entity>
+    <discern>NIS</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="INR">
     <title>Indian Rupee</title>
     <name>rupee</name>
     <code>INR</code>
+    <symbol>₹</symbol>
+    <entity>&amp;#x20B9;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="IQD">
     <title>Iraqi Dinar</title>
     <name>dinar</name>
     <code>IQD</code>
+    <symbol>د.ع</symbol>
+    <entity>&amp;#x62F;&amp;#x2E;&amp;#x639;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="IRR">
     <title>Iranian Rial</title>
     <name>rial</name>
     <code>IRR</code>
+    <symbol>﷼</symbol>
+    <entity>&amp;#xFDFC;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="ISK">
     <title>Iceland Krona</title>
     <name>krona</name>
     <code>ISK</code>
+    <symbol>kr</symbol>
+    <entity>&amp;#x6B;&amp;#x72;</entity>
+    <discern>ISK</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="JEP">
     <title>Jersey Pound</title>
     <name>pound</name>
     <code>JEP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>JEP</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="JMD">
     <title>Jamaican Dollar</title>
     <name>dollar</name>
     <code>JMD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>J$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="JOD">
     <title>Jordanian Dinar</title>
     <name>dinar</name>
     <code>JOD</code>
+    <symbol>د.أ</symbol>
+    <entity>&amp;#x62F;&amp;#x2E;&amp;#x623;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="JPY">
     <title>Yen</title>
     <name>yen</name>
     <code>JPY</code>
+    <symbol>¥</symbol>
+    <entity>&amp;#xA5;</entity>
+    <discern>JP¥</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="KES">
     <title>Kenyan Shilling</title>
     <name>shilling</name>
     <code>KES</code>
+    <symbol>KSh</symbol>
+    <entity>&amp;#x4B;&amp;#x53;&amp;#x68;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KGS">
     <title>Som</title>
     <name>som</name>
     <code>KGS</code>
+    <symbol>сом</symbol>
+    <entity>&amp;#x441;&amp;#x43E;&amp;#x43C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KHR">
     <title>Riel</title>
     <name>riel</name>
     <code>KHR</code>
+    <symbol>៛</symbol>
+    <entity>&amp;#x17DB;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KMF">
     <title>Comorian Franc</title>
     <name>franc</name>
     <code>KMF</code>
+    <symbol>CF</symbol>
+    <entity>&amp;#x43;&amp;#x46;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KPW">
     <title>North Korean Won</title>
     <name>won</name>
     <code>KPW</code>
+    <symbol>₩</symbol>
+    <entity>&amp;#x20A9;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KRW">
     <title>Won</title>
     <name>won</name>
     <code>KRW</code>
+    <symbol>₩</symbol>
+    <entity>&amp;#x20A9;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="KWD">
     <title>Kuwaiti Dinar</title>
     <name>dinar</name>
     <code>KWD</code>
+    <symbol>د.ك</symbol>
+    <entity>&amp;#x62F;&amp;#x2E;&amp;#x643;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="KYD">
     <title>Cayman Islands Dollar</title>
     <name>dollar</name>
     <code>KYD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>CI$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="KZT">
     <title>Tenge</title>
     <name>tenge</name>
     <code>KZT</code>
+    <symbol>₸</symbol>
+    <entity>&amp;#x20B8;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="LAK">
     <title>Lao Kip</title>
     <name>kip</name>
     <code>LAK</code>
+    <symbol>₭</symbol>
+    <entity>&amp;#x20AD;</entity>
+    <discern>₭N</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="LBP">
     <title>Lebanese Pound</title>
     <name>pound</name>
     <code>LBP</code>
+    <symbol>ل.ل.</symbol>
+    <entity>&amp;#x644;&amp;#x2E;&amp;#x644;&amp;#x2E;</entity>
+    <discern>LL</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="LKR">
     <title>Sri Lanka Rupee</title>
     <name>rupee</name>
     <code>LKR</code>
+    <symbol>₨</symbol>
+    <entity>&amp;#x20A8;</entity>
+    <discern>LKR</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="LRD">
     <title>Liberian Dollar</title>
     <name>dollar</name>
     <code>LRD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>L$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="LSL">
     <title>Loti</title>
     <name>loti</name>
     <code>LSL</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="LYD">
     <title>Libyan Dinar</title>
     <name>dinar</name>
     <code>LYD</code>
+    <symbol>.د</symbol>
+    <entity>&amp;#x2E;&amp;#x62F;</entity>
+    <discern>LD</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="MAD">
     <title>Moroccan Dirham</title>
     <name>dirham</name>
     <code>MAD</code>
+    <symbol>د.م.</symbol>
+    <entity>&amp;#x62F;&amp;#x2E;&amp;#x645;&amp;#x2E;</entity>
+    <discern>DH</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="MDL">
     <title>Moldovan Leu</title>
     <name>leu</name>
     <code>MDL</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MGA">
     <title>Malagasy Ariary</title>
     <name>ariary</name>
     <code>MGA</code>
+    <symbol>Ar</symbol>
+    <entity>&amp;#x41;&amp;#x72;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MKD">
     <title>Denar</title>
     <name>denar</name>
     <code>MKD</code>
+    <symbol>ден</symbol>
+    <entity>&amp;#x434;&amp;#x435;&amp;#x43D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MMK">
     <title>Kyat</title>
     <name>kyat</name>
     <code>MMK</code>
+    <symbol>K</symbol>
+    <entity>&amp;#x4B;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MNT">
     <title>Tugrik</title>
     <name>tugrik</name>
     <code>MNT</code>
+    <symbol>₮</symbol>
+    <entity>&amp;#x20AE;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MOP">
     <title>Pataca</title>
     <name>pataca</name>
     <code>MOP</code>
+    <symbol>MOP$</symbol>
+    <entity>&amp;#x4D;&amp;#x4F;&amp;#x50;&amp;#x24;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MRU">
     <title>Ouguiya</title>
     <name>ouguiya</name>
     <code>MRU</code>
+    <symbol>UM</symbol>
+    <entity>&amp;#x55;&amp;#x4D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MUR">
     <title>Mauritius Rupee</title>
     <name>rupee</name>
     <code>MUR</code>
+    <symbol>₨</symbol>
+    <entity>&amp;#x20A8;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MVR">
     <title>Rufiyaa</title>
     <name>rufiyaa</name>
     <code>MVR</code>
+    <symbol>Rf.</symbol>
+    <entity>&amp;#x52;&amp;#x66;&amp;#x2E;</entity>
+    <discern>MRf</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="MWK">
     <title>Malawi Kwacha</title>
     <name>kwacha</name>
     <code>MWK</code>
+    <symbol>K</symbol>
+    <entity>&amp;#x4B;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MXN">
     <title>Mexican Peso</title>
     <name>peso</name>
     <code>MXN</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>MX$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="MXV">
     <title>Mexican Unidad de Inversion (UDI)</title>
     <name>udi</name>
     <code>MXV</code>
+    <symbol>-</symbol>
+    <entity>&amp;#x2D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MYR">
     <title>Malaysian Ringgit</title>
     <name>ringgit</name>
     <code>MYR</code>
+    <symbol>RM</symbol>
+    <entity>&amp;#x52;&amp;#x4D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="MZN">
     <title>Mozambique Metical</title>
     <name>metical</name>
     <code>MZN</code>
+    <symbol>MT</symbol>
+    <entity>&amp;#x4D;&amp;#x54;</entity>
+    <discern>MTn</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="NAD">
     <title>Namibia Dollar</title>
     <name>dollar</name>
     <code>NAD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>N$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="NGN">
     <title>Naira</title>
     <name>naira</name>
     <code>NGN</code>
+    <symbol>₦</symbol>
+    <entity>&amp;#x20A6;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="NIO">
     <title>Cordoba Oro</title>
     <name>cordoba</name>
     <code>NIO</code>
+    <symbol>C$</symbol>
+    <entity>&amp;#x43;&amp;#x24;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="NOK">
     <title>Norwegian Krone</title>
     <name>krone</name>
     <code>NOK</code>
+    <symbol>kr</symbol>
+    <entity>&amp;#x6B;&amp;#x72;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="NPR">
     <title>Nepalese Rupee</title>
     <name>rupee</name>
     <code>NPR</code>
+    <symbol>रु</symbol>
+    <entity>&amp;#x930;&amp;#x941;</entity>
+    <discern>₨</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="NZD">
     <title>New Zealand Dollar</title>
     <name>dollar</name>
     <code>NZD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>NZ$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="OMR">
     <title>Rial Omani</title>
     <name>rial</name>
     <code>OMR</code>
+    <symbol>ر.ع.</symbol>
+    <entity>&amp;#x631;&amp;#x2E;&amp;#x639;&amp;#x2E;</entity>
+    <discern>R.O.</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="PAB">
     <title>Balboa</title>
     <name>balboa</name>
     <code>PAB</code>
+    <symbol>B/.</symbol>
+    <entity>&amp;#x42;&amp;#x2F;&amp;#x2E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PEN">
     <title>Sol</title>
     <name>sol</name>
     <code>PEN</code>
+    <symbol>S/</symbol>
+    <entity>&amp;#x53;&amp;#x2F;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PGK">
     <title>Kina</title>
     <name>kina</name>
     <code>PKG</code>
+    <symbol>K</symbol>
+    <entity>&amp;#x4B;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PHP">
     <title>Philippine Peso</title>
     <name>peso</name>
     <code>PHP</code>
+    <symbol>₱</symbol>
+    <entity>&amp;#x20B1;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PKR">
     <title>Pakistan Rupee</title>
     <name>rupee</name>
     <code>PKR</code>
+    <symbol>₨</symbol>
+    <entity>&amp;#x20A8;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PLN">
     <title>Zloty</title>
     <name>zloty</name>
     <code>PLN</code>
+    <symbol>zł</symbol>
+    <entity>&amp;#x7A;&amp;#x142;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="PYG">
     <title>Guarani</title>
     <name>guarani</name>
     <code>PYG</code>
+    <symbol>₲</symbol>
+    <entity>&amp;#x20B2;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="QAR">
     <title>Qatari Rial</title>
     <name>riyal</name>
     <code>QAR</code>
+    <symbol>ر.ق</symbol>
+    <entity>&amp;#x631;&amp;#x2E;&amp;#x642;&amp;#xA;</entity>
+    <discern>QR</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="RON">
     <title>Romanian Leu</title>
     <name>leu</name>
     <code>RON</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="RSD">
     <title>Serbian Dinar</title>
     <name>dinar</name>
     <code>RSD</code>
+    <symbol>дин</symbol>
+    <entity>&amp;#x434;&amp;#x438;&amp;#x43D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="RUB">
     <title>Russian Ruble</title>
     <name>ruble</name>
     <code>RUB</code>
+    <symbol>₽</symbol>
+    <entity>&amp;#x20BD;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="RWF">
     <title>Rwanda Franc</title>
     <name>franc</name>
     <code>RWF</code>
+    <symbol>FRw</symbol>
+    <entity>&amp;#x46;&amp;#x52;&amp;#x77;</entity>
+    <discern>R₣</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SAR">
     <title>Saudi Riyal</title>
     <name>riyal</name>
     <code>SAR</code>
+    <symbol>ر.س</symbol>
+    <entity>&amp;#x631;&amp;#x2E;&amp;#x633;&amp;#xA;</entity>
+    <discern>SAR</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="SBD">
     <title>Solomon Islands Dollar</title>
     <name>dollar</name>
     <code>SBD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>SI$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SCR">
     <title>Seychelles Rupee</title>
     <name>rupee</name>
     <code>SCR</code>
+    <symbol>₨</symbol>
+    <entity>&amp;#x20A8;</entity>
+    <discern>SRe</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SDG">
     <title>Sudanese Pound</title>
     <name>pound</name>
     <code>SDG</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>£SD</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SEK">
     <title>Swedish Krona</title>
     <name>krona</name>
     <code>SEK</code>
+    <symbol>kr</symbol>
+    <entity>&amp;#x6B;&amp;#x72;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="SGD">
     <title>Singapore Dollar</title>
     <name>dollar</name>
     <code>SGD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>S$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SHP">
     <title>Saint Helena Pound</title>
     <name>pound</name>
     <code>SHP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="SLL">
     <title>Leone</title>
     <name>leone</name>
     <code>SLL</code>
+    <symbol>Le</symbol>
+    <entity>&amp;#x4C;&amp;#x65;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="SOS">
     <title>Somali Shilling</title>
     <name>shilling</name>
     <code>SOS</code>
+    <symbol>Sh.So.</symbol>
+    <entity>&amp;#x53;&amp;#x68;&amp;#x2E;&amp;#x53;&amp;#x6F;&amp;#x2E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="SRD">
     <title>Surinam Dollar</title>
     <name>dollar</name>
     <code>SRD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>Sr$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="STN">
     <title>Dobra</title>
     <name>dobra</name>
     <code>STN</code>
+    <symbol>Db</symbol>
+    <entity>&amp;#x44;&amp;#x62;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="SSP">
     <title>South Sudanese Pound</title>
     <name>pound</name>
     <code>SSP</code>
-  </currency>
-  <currency code="SVC">
-    <title>El Salvador Colon</title>
-    <name>colon</name>
-    <code>SVC</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>SS£</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SYP">
     <title>Syrian Pound</title>
     <name>pound</name>
     <code>SYP</code>
+    <symbol>£</symbol>
+    <entity>&amp;#xA3;</entity>
+    <discern>£S</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="SZL">
     <title>Lilangeni</title>
     <name>lilangeni</name>
     <code>SZL</code>
+    <symbol>L</symbol>
+    <entity>&amp;#x4C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="THB">
     <title>Baht</title>
     <name>baht</name>
     <code>THB</code>
+    <symbol>฿</symbol>
+    <entity>&amp;#xE3F;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="TJS">
     <title>Somoni</title>
     <name>somoni</name>
     <code>TJS</code>
+    <symbol>SM</symbol>
+    <entity>&amp;#x53;&amp;#x4D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="TMT">
     <title>Turkmenistan New Manat</title>
     <name>manat</name>
     <code>TMT</code>
+    <symbol>m</symbol>
+    <entity>&amp;#x6D;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="TND">
     <title>Tunisian Dinar</title>
     <name>dinar</name>
     <code>TND</code>
+    <symbol>د.ت</symbol>
+    <entity>&amp;#x62F;&amp;#x2E;&amp;#x62A;</entity>
+    <discern>DT</discern>
+    <ltr>false</ltr>
   </currency>
   <currency code="TOP">
     <title>Pa’anga</title>
     <name>pa’anga</name>
     <code>TOP</code>
+    <symbol>T$</symbol>
+    <entity>&amp;#x54;&amp;#x24;</entity>
+    <discern>PT</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="TRY">
     <title>Turkish Lira</title>
     <name>lira</name>
     <code>TRY</code>
+    <symbol>₺</symbol>
+    <entity>&amp;#x20BA;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="TTD">
     <title>Trinidad and Tobago Dollar</title>
     <name>dollar</name>
     <code>TTD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>TT$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="TWD">
     <title>New Taiwan Dollar</title>
     <name>dollar</name>
     <code>TWD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>NT$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="TZS">
     <title>Tanzanian Shilling</title>
     <name>shiling</name>
     <code>TZS</code>
+    <symbol>TSh</symbol>
+    <entity>&amp;#x54;&amp;#x53;&amp;#x68;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="UAH">
     <title>Hryvnia</title>
     <name>hryvnia</name>
     <code>UAH</code>
+    <symbol>₴</symbol>
+    <entity>&amp;#x20B4;</entity>
+    <discern>грн</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="UGX">
     <title>Uganda Shilling</title>
     <name>shilling</name>
     <code>UGX</code>
+    <symbol>USh</symbol>
+    <entity>&amp;#x55;&amp;#x53;&amp;#x68;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="USD">
     <title>United States Dollar</title>
     <name>dollar</name>
     <code>USD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="UYU">
     <title>Peso Uruguayo</title>
     <name>peso</name>
     <code>UYU</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>$U</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="UZS">
     <title>Uzbekistan Sum</title>
     <name>sum</name>
     <code>UZS</code>
+    <symbol>сум</symbol>
+    <entity>&amp;#x441;&amp;#x443;&amp;#x43C;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="VED">
     <title>Bolívar Soberano</title>
     <name>bolívar</name>
     <code>VED</code>
+    <symbol>Bs.</symbol>
+    <entity>&amp;#x42;&amp;#x73;&amp;#x2E;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="VES">
     <title>Bolívar Soberano</title>
     <name>bolívar</name>
     <code>VES</code>
+    <symbol>Bs.S</symbol>
+    <entity>&amp;#x42;&amp;#x73;&amp;#x2E;&amp;#x53;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="VND">
     <title>Dong</title>
     <name>dong</name>
     <code>VND</code>
+    <symbol>₫</symbol>
+    <entity>&amp;#x20AB;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="VUV">
     <title>Vatu</title>
     <name>vatu</name>
     <code>VUV</code>
+    <symbol>VT</symbol>
+    <entity>&amp;#x56;&amp;#x54;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="WST">
     <title>Tala</title>
     <name>tala</name>
     <code>WST</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>WS$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="XAF">
     <title>CFA Franc BEAC</title>
     <name>franc</name>
     <code>XAF</code>
+    <symbol>FCFA</symbol>
+    <entity>&amp;#x46;&amp;#x43;&amp;#x46;&amp;#x41;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="XCD">
     <title>East Caribbean Dollar</title>
     <name>dollar</name>
     <code>XCD</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>EC$</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="XDR">
     <title>SDR (Special Drawing Right)</title>
     <name>SDR</name>
     <code>XDR</code>
+    <symbol>SDR</symbol>
+    <entity>&amp;#x53;&amp;#x44;&amp;#x52;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="XOF">
     <title>CFA Franc BCEAO</title>
     <name>franc</name>
     <code>XOF</code>
+    <symbol>CFA</symbol>
+    <entity>&amp;#x43;&amp;#x46;&amp;#x41;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="XPF">
     <title>CFP Franc</title>
     <name>franc</name>
     <code>XPF</code>
+    <symbol>₣</symbol>
+    <entity>&amp;#x20A3;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="YER">
     <title>Yemeni Rial</title>
     <name>rial</name>
     <code>YER</code>
+    <symbol>ر.ي</symbol>
+    <entity>&amp;#x631;&amp;#x2E;&amp;#x64A;</entity>
+    <discern />
+    <ltr>false</ltr>
   </currency>
   <currency code="ZAR">
     <title>Rand</title>
     <name>rand</name>
     <code>ZAR</code>
+    <symbol>R</symbol>
+    <entity>&amp;#x52;</entity>
+    <discern />
+    <ltr>true</ltr>
   </currency>
   <currency code="ZMW">
     <title>Zambian Kwacha</title>
     <name>kwacha</name>
     <code>ZMW</code>
+    <symbol>K</symbol>
+    <entity>&amp;#x4B;</entity>
+    <discern>ZK</discern>
+    <ltr>true</ltr>
   </currency>
   <currency code="ZWL">
-    <title>Zimbabwe Dollar</title>
+    <title>Zimdollar</title>
     <name>dollar</name>
     <code>ZWL</code>
+    <symbol>$</symbol>
+    <entity>&amp;#x24;</entity>
+    <discern>ZWL$</discern>
+    <ltr>true</ltr>
   </currency>
 </currencies>
