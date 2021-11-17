@@ -35,10 +35,7 @@ jobs:
       - uses: addnab/docker-run-action@v3
         with:
           image: genv/php-cli:8.0
-          options: -e composer -v ${{ github.workspace }}:/data/
-          run: install
-      - uses: addnab/docker-run-action@v3
-        with:
-          image: genv/php-cli:8.0
           options: -v ${{ github.workspace }}:/data/
-          run: vendor/bin/phpunit test/php/ || true
+          run: |
+            /usr/local/bin/composer install
+            vendor/bin/phpunit test/php/ || true
