@@ -522,15 +522,6 @@
     <discern />
     <ltr>true</ltr>
   </currency>
-  <currency code="HRK">
-    <title>Kuna</title>
-    <name>kuna</name>
-    <code>HRK</code>
-    <symbol>kn</symbol>
-    <entity>&amp;#x6B;&amp;#x6E;</entity>
-    <discern />
-    <ltr>true</ltr>
-  </currency>
   <currency code="HTG">
     <title>Gourde</title>
     <name>gourde</name>
@@ -1140,6 +1131,15 @@
     <code>SHP</code>
     <symbol>£</symbol>
     <entity>&amp;#xA3;</entity>
+    <discern />
+    <ltr>true</ltr>
+  </currency>
+  <currency code="SLE">
+    <title>Leone</title>
+    <name>leone</name>
+    <code>SLE</code>
+    <symbol>Le</symbol>
+    <entity>&amp;#x4C;&amp;#x65;</entity>
     <discern />
     <ltr>true</ltr>
   </currency>
