@@ -521,15 +521,6 @@
     "discern": null,
     "ltr": true
   },
-  "HRK": {
-    "title": "Kuna",
-    "name": "kuna",
-    "code": "HRK",
-    "symbol": "kn",
-    "entity": "&#x6B;&#x6E;",
-    "discern": null,
-    "ltr": true
-  },
   "HTG": {
     "title": "Gourde",
     "name": "gourde",
@@ -1139,6 +1130,15 @@
     "code": "SHP",
     "symbol": "£",
     "entity": "&#xA3;",
+    "discern": null,
+    "ltr": true
+  },
+  "SLE": {
+    "title": "Leone",
+    "name": "leone",
+    "code": "SLE",
+    "symbol": "Le",
+    "entity": "&#x4C;&#x65;",
     "discern": null,
     "ltr": true
   },

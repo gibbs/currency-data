@@ -522,15 +522,6 @@ currency:
     discern: ~
     ltr: true
 
-  HRK:
-    title: Kuna
-    name: kuna
-    code: HRK
-    symbol: kn
-    entity: '&#x6B;&#x6E;'
-    discern: ~
-    ltr: true
-
   HTG:
     title: Gourde
     name: gourde
@@ -1140,6 +1131,15 @@ currency:
     code: SHP
     symbol: £
     entity: '&#xA3;'
+    discern: ~
+    ltr: true
+
+  SLE:
+    title: Leone
+    name: leone
+    code: SLE
+    symbol: Le
+    entity: '&#x4C;&#x65;'
     discern: ~
     ltr: true
 

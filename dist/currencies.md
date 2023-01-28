@@ -58,7 +58,6 @@
 |Guyana Dollar|dollar|GYD|$|&amp;#x24;|GY$|true|
 |Hong Kong Dollar|dollar|HKD|$|&amp;#x24;|HK$|true|
 |Lempira|lempira|HNL|L|&amp;#x4C;||true|
-|Kuna|kuna|HRK|kn|&amp;#x6B;&amp;#x6E;||true|
 |Gourde|gourde|HTG|G|&amp;#x47;||true|
 |Forint|forint|HUF|Ft|&amp;#x46;&amp;#x74;||true|
 |Rupiah|rupiah|IDR|Rp|&amp;#x52;&amp;#x70;||true|
@@ -127,6 +126,7 @@
 |Swedish Krona|krona|SEK|kr|&amp;#x6B;&amp;#x72;||true|
 |Singapore Dollar|dollar|SGD|$|&amp;#x24;|S$|true|
 |Saint Helena Pound|pound|SHP|£|&amp;#xA3;||true|
+|Leone|leone|SLE|Le|&amp;#x4C;&amp;#x65;||true|
 |Leone|leone|SLL|Le|&amp;#x4C;&amp;#x65;||true|
 |Somali Shilling|shilling|SOS|Sh.So.|&amp;#x53;&amp;#x68;&amp;#x2E;&amp;#x53;&amp;#x6F;&amp;#x2E;||true|
 |Surinam Dollar|dollar|SRD|$|&amp;#x24;|Sr$|true|
