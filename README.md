@@ -191,10 +191,11 @@ Data has primarily been sourced from and referenced against
 |Tala|tala|WST|$|&amp;#x24;|WS$|true|
 |CFA Franc BEAC|franc|XAF|FCFA|&amp;#x46;&amp;#x43;&amp;#x46;&amp;#x41;||true|
 |East Caribbean Dollar|dollar|XCD|$|&amp;#x24;|EC$|true|
+|Caribbean guilder|guilder|XCG|Cg|&amp;#x43;&amp;#x67;||true|
 |SDR (Special Drawing Right)|SDR|XDR|SDR|&amp;#x53;&amp;#x44;&amp;#x52;||true|
 |CFA Franc BCEAO|franc|XOF|CFA|&amp;#x43;&amp;#x46;&amp;#x41;||true|
 |CFP Franc|franc|XPF|₣|&amp;#x20A3;||true|
 |Yemeni Rial|rial|YER|ر.ي|&amp;#x631;&amp;#x2E;&amp;#x64A;||false|
 |Rand|rand|ZAR|R|&amp;#x52;||true|
 |Zambian Kwacha|kwacha|ZMW|K|&amp;#x4B;|ZK|true|
-|Zimdollar|dollar|ZWL|$|&amp;#x24;|ZWL$|true|
+|Zimbabwe Gold|zig|ZWG|ZiG|&amp;#x5A;&amp;#x69;&amp;#x47;||true|
