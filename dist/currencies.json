@@ -1394,6 +1394,15 @@
     "discern": "EC$",
     "ltr": true
   },
+  "XCG": {
+    "title": "Caribbean guilder",
+    "name": "guilder",
+    "code": "XCG",
+    "symbol": "Cg",
+    "entity": "&#x43;&#x67;",
+    "discern": null,
+    "ltr": true
+  },
   "XDR": {
     "title": "SDR (Special Drawing Right)",
     "name": "SDR",
@@ -1448,13 +1457,13 @@
     "discern": "ZK",
     "ltr": true
   },
-  "ZWL": {
-    "title": "Zimdollar",
-    "name": "dollar",
-    "code": "ZWL",
-    "symbol": "$",
-    "entity": "&#x24;",
-    "discern": "ZWL$",
+  "ZWG": {
+    "title": "Zimbabwe Gold",
+    "name": "zig",
+    "code": "ZWG",
+    "symbol": "ZiG",
+    "entity": "&#x5A;&#x69;&#x47;",
+    "discern": null,
     "ltr": true
   }
 }

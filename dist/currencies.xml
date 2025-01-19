@@ -1395,6 +1395,15 @@
     <discern>EC$</discern>
     <ltr>true</ltr>
   </currency>
+  <currency code="XCG">
+    <title>Caribbean guilder</title>
+    <name>guilder</name>
+    <code>XCG</code>
+    <symbol>Cg</symbol>
+    <entity>&amp;#x43;&amp;#x67;</entity>
+    <discern />
+    <ltr>true</ltr>
+  </currency>
   <currency code="XDR">
     <title>SDR (Special Drawing Right)</title>
     <name>SDR</name>
@@ -1449,13 +1458,13 @@
     <discern>ZK</discern>
     <ltr>true</ltr>
   </currency>
-  <currency code="ZWL">
-    <title>Zimdollar</title>
-    <name>dollar</name>
-    <code>ZWL</code>
-    <symbol>$</symbol>
-    <entity>&amp;#x24;</entity>
-    <discern>ZWL$</discern>
+  <currency code="ZWG">
+    <title>Zimbabwe Gold</title>
+    <name>zig</name>
+    <code>ZWG</code>
+    <symbol>ZiG</symbol>
+    <entity>&amp;#x5A;&amp;#x69;&amp;#x47;</entity>
+    <discern />
     <ltr>true</ltr>
   </currency>
 </currencies>
