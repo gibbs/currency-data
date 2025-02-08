@@ -18,21 +18,21 @@
     "dataset"
   ],
   "engines": {
-    "npm": ">=8.1.0",
-    "node": ">=16.13.0"
+    "npm": ">=10",
+    "node": ">=22"
   },
   "scripts": {
     "generate": "node scripts/generate.js",
     "lint:js": "standard scripts/**/*.js test/**/*.js",
     "lint:yaml": "yamllint **/*.yaml --schema=CORE_SCHEMA",
-    "php:composer": "docker run -it -v \"$(pwd):/data/\" --entrypoint composer genv/php-cli:8.0 install",
-    "test:php": "docker run -it -v \"$(pwd):/data/\" genv/php-cli:8.0 vendor/bin/phpunit test/php/ || true",
+    "php:composer": "docker run -it -v \"$(pwd):/data/\" --entrypoint composer genv/php-cli:8.3 install",
+    "test:php": "docker run -it -v \"$(pwd):/data/\" genv/php-cli:8.3 vendor/bin/phpunit test/php/ || true",
     "test:schema": "node test/schema.js",
     "test:validate": "node test/validate.js"
   },
   "devDependencies": {
     "csv-file-validator": "^1.12.0",
-    "csval": "^1.1.1",
+    "csval": "^2.0.0",
     "ejs": "^3.1.6",
     "fast-xml-parser": "^4.0.0-beta.0",
     "js-yaml": "^4.1.0",
