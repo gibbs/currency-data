@@ -305,15 +305,6 @@
     'discern' => '',
     'ltr' => 'true',
   ],
-  'CUC' => [
-    'title' => 'Peso Convertible',
-    'name' => 'peso',
-    'code' => 'CUC',
-    'symbol' => '$',
-    'entity' => '&#x24;',
-    'discern' => 'CUC$',
-    'ltr' => 'true',
-  ],
   'CUP' => [
     'title' => 'Cuban Peso',
     'name' => 'peso',

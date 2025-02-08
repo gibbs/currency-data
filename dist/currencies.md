@@ -34,7 +34,6 @@
 |Yuan Renminbi|yuan|CNY|¥|&amp;#xA5;||true|
 |Colombian Peso|peso|COP|$|&amp;#x24;|COP$|true|
 |Costa Rican Colon|colon|CRC|₡|&amp;#x20A1;||true|
-|Peso Convertible|peso|CUC|$|&amp;#x24;|CUC$|true|
 |Cuban Peso|peso|CUP|$|&amp;#x24;|$MN|true|
 |Cabo Verde Escudo|escudo|CVE|Esc|&amp;#x45;&amp;#x73;&amp;#x63;||true|
 |Czech Koruna|koruna|CZK|Kč|&amp;#x4B;&amp;#x10D;||true|
